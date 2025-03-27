@@ -90,8 +90,8 @@ VibeTalk is fully deployed on Render.
 ## Contact
 If you are a recruiter or client interested in this project, feel free to reach out via:
 - Email: devadigarahul06@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rahul-r-devadiga/)
-- GitHub: [Your GitHub Profile](https://github.com/Rahul-R-Devadiga)
+- [LinkedIn](https://www.linkedin.com/in/rahul-r-devadiga/)
+- [GitHub](https://github.com/Rahul-R-Devadiga)
 
 ---
 
